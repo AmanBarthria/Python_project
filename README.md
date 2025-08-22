@@ -1,5 +1,5 @@
 # Python_project
-Built comprehensive Python Data Analytics projects utilizing CSV integration, NumPy, and Pandas for advanced data cleaning, transformation, statistical calculations, relational table joins, and pattern/character-based data search—delivering structured insights through practical problem-solving and analytical modeling.
+Built comprehensive Python Data Analytics projects utilizing CSV integration, NumPy, and Pandas for advanced data cleaning, transformation, statistical calculations, relational table joins, and pattern-character-based data search—delivering structured insights through practical problem-solving and analytical modeling.
 # 🐍 Data Cleaning & Analysis (Python Project)
 
 ## 📌 Project Overview
